@@ -11,10 +11,10 @@ const Card = (props) => {
                 <h3>{props.name}</h3>
                 <div className='info-edit' style = {{ display: 'flex', gap :'10px'}}>
                     <Link to ={`/view/${props.id}`}>
-                        <img src="/icons/info.png" alt="info" style={{ width: '24px' }} />
+                        <img src="/icons/info.svg" alt="info" style={{ width: '24px' }} />
                     </Link>
                     <Link to ={`/edit/${props.id}`}>
-                        <img src="/icons/pen.png" alt="pen" style={{ width: '24px' }} />
+                        <img src="/icons/pen.svg" alt="pen" style={{ width: '24px' }} />
                     </Link>
                     
                 </div>
@@ -22,19 +22,19 @@ const Card = (props) => {
                     {/*only show the media icon if that the databse have */}
                     {props.youtube &&(
                         <a href = {props.youtube} target = "_blank" rel="noreferrer">
-                            <img src="/icons/youtube.png" alt="YouTube" style={{ width: '24px' }} />
+                            <img src="/icons/youtube.svg" alt="YouTube" style={{ width: '24px' }} />
                         </a> 
                     )}
 
                     {props.twitter && (
                         <a href={props.twitter} target="_blank" rel="noreferrer">
-                            <img src="/icons/twitter.png" alt="Twitter" style={{ width: '24px' }} />
+                            <img src="/icons/twitter.svg" alt="Twitter" style={{ width: '24px' }} />
                         </a>
                     )}
 
                     {props.instagram && (
                     <a href={props.instagram} target="_blank" rel="noreferrer">
-                        <img src="/icons/instagram.png" alt="Instagram" style={{ width: '24px' }} />
+                        <img src="/icons/instagram.svg" alt="Instagram" style={{ width: '24px' }} />
                     </a>
                     )}
                     

@@ -10,7 +10,6 @@ const Header = () => {
         <header className="hero-section">
             <h1>CREATORVERSE</h1>
             <div className="header-buttons">
-                {/* These buttons act as Teleporters! */}
                 <Link to="/creators"><button>VIEW ALL CREATORS</button></Link>
                 <Link to="/add"><button>ADD A CREATOR</button></Link>
             </div>
@@ -19,8 +18,6 @@ const Header = () => {
 };
 
 const App = () => {
-    
-    // The Map: Connecting URLs to Components
     const routing = useRoutes([
         {
             path: "/", 
@@ -34,7 +31,6 @@ const App = () => {
         },
         {
             path: "/creators",
-            // ONLY the list, no space background!
             element: <ShowCreators /> 
         },
         {
