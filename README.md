@@ -1,5 +1,6 @@
 # WEB103 Prework - *👉🏿 Creatorverse*
-
+## Demo: https://codepathdeploy-gcalfgnvu-i-miss-your-voices-projects.vercel.app/
+(Note: I will take this down after received application result)
 Submitted by: **An Dang**
 Noted: Unheat is my main github account this account is my uni github account if you wonder, I mistaked using this account in the application so I transfered  administrator access of this repo to this account
 About this web app: 
@@ -43,7 +44,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/user-attachments/assets/40ff67e2-18b2-410b-b790-627b9eac6876)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/user-attachments/assets/40ff67e2-18b2-410b-b790-627b9eac6876' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif 
