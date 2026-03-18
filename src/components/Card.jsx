@@ -22,6 +22,7 @@ const Card = (props) => {
           <Link to={`/view/${props.id}`}>
             <img src="/icons/info.svg" alt="info" style={{ width: "24px" }} />
           </Link>
+
           <Link to={`/edit/${props.id}`}>
             <img src="/icons/pen.svg" alt="pen" style={{ width: "24px" }} />
           </Link>

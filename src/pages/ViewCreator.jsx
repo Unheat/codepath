@@ -158,6 +158,7 @@ const ViewCreator = () => {
               cursor: "pointer",
               fontWeight: "bold",
             }}
+            className="w-[378px]"
           >
             EDIT
           </button>
@@ -175,6 +176,7 @@ const ViewCreator = () => {
             cursor: "pointer",
             fontWeight: "bold",
           }}
+          className="w-[662px]"
         >
           DELETE
         </button>
