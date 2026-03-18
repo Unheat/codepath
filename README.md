@@ -1,7 +1,7 @@
 # WEB103 Prework - *👉🏿 Creatorverse*
 
 Submitted by: **An Dang**
-
+Noted: Unheat is my main github account this account is my uni github account if you wonder, I mistaked using this account in the application so I transfered  administrator access of this repo to this account
 About this web app: 
 ## Tech Stack
 * **Language:** JavaScript (JSX)
@@ -43,18 +43,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/user-attachments/assets/40ff67e2-18b2-410b-b790-627b9eac6876)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  👉🏿 GIF tool here
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with ScreenToGif 
 
 ## Notes
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
+I ran into a few classic errors, like syncing up different versions of Vite and Tailwind CSS which caused some initial build errors on Vercel. I also had a fun time troubleshooting why my data wasn't showing up, only to realize I just needed to introduce my Supabase environment variables to the Vercel dashboard. Also, during this project I found a tool call Onlook, try to make the Onlook prgram to work with my front-end was quite time consuming but worth it.
 
 ## License
 
